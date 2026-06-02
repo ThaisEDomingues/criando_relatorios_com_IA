@@ -1,0 +1,33 @@
+Aula da Generation
+Desafio de IA: Engenharia de Prompts 
+
+Usar a ia para descobrir correlações;
+Gerar um relatório em pdf;
+Gerar mapa mental;
+Gerar apresentação.
+Usar o google ia studio para gerar um dashboard interativo.
+
+Anotações da aula prof Luiz Chiavinik:
+No Gemini suba os arquivos e escreva para fazer primeira anlise e gerar pdf:
+
+analisando estes dados, preciso que você atue como um analista de dados senior e me ajude a fazer uma interpretação das informações que estão nestes documentos.
+vamos sumarizar estes documentos e descobrir correlações importantes.
+Baseado nessa primeira entrega, vamos gerar um arquivo pdf para mostrar essas informações? Coloque e explique os gráficos 
+
+No notebookLM suba os respectivos arquivos para criar slides, infográficos, mapa metal, vídeos
+https://notebooklm.google.com/?utm_source=app_launcher&utm_medium=referral&authuser=0
+
+No Google AI Studio
+https://aistudio.google.com/
+coloque o prompt
+Para gerar um site com dashboard interativo
+atuando como um analista de dados senior e com um desenvolvedor fullstack senior, com foco em ui+, usando as cores azul e branco como padrão, preciso criar um dashboard intuitivo, simples e minimalista, para explicar essas informações. 
+Vamos utilizar de conceitos do mercado de dados para explorar essas informações. no relatório anexo (pdf) temos dois graficos, preciso de ao menos mais três correlações. vamos desenvolver isso e gerar uma plataforma web responsiva.
+
+
+Ex:
+https://feedback-analytics-dashboard-791829200420.us-east1.run.app/
+
+caso o Google ia studio estiver fora usa esses
+https://base44.com/
+https://dribbble.com/search/dashboard
