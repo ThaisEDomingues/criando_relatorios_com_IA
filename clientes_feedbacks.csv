@@ -1,0 +1,16 @@
+ID_Compra,ID_Cliente,Nome_Cliente,Data_Compra,Valor_Gasto,Setor_Atendimento,Nota_Feedback,Comentario_Feedback
+101,C001,Empresa Alpha,2024-04-01,1540.50,Vendas,5,Atendimento excelente e rápido.
+102,C002,Beto Tech,2024-04-02,320.00,Atendimento,2,Demora na resolução do problema de faturamento.
+103,C003,Mercado XYZ,2024-04-02,8900.00,Vendas,4,Bom produto mas entrega atrasou um dia.
+104,C004,Livraria Sol,2024-04-03,450.75,Suporte,5,Problema resolvido na hora pelo time de TI.
+105,C001,Empresa Alpha,2024-04-05,2100.00,Vendas,5,Nova compra realizada com sucesso.
+106,C005,Consultoria Beta,2024-04-06,650.00,Atendimento,3,Atendimento mediano atendente parecia confuso.
+107,C006,Loja da Esquina,2024-04-07,120.00,Vendas,1,Produto veio com defeito e ninguém me retorna.
+108,C002,Beto Tech,2024-04-08,800.00,Suporte,4,Melhorou bastante em relação ao último chamado.
+109,C007,Construtora Alfa,2024-04-09,12500.00,Vendas,5,Parceria sólida.
+110,C003,Mercado XYZ,2024-04-10,430.00,Atendimento,2,Fiquei 40 minutos na linha esperando.
+111,C008,Startup Inova,2024-04-10,3400.00,Suporte,5,Integração de sistema perfeita.
+112,C009,Clínica Saúde,2024-04-11,950.25,Vendas,4,Preço um pouco alto mas a qualidade compensa.
+113,C004,Livraria Sol,2024-04-12,200.00,Atendimento,5,Sempre muito bem atendido.
+114,C010,Escola Futuro,2024-04-13,5600.00,Vendas,3,Faltou clareza no contrato de implantação.
+115,C001,Empresa Alpha,2024-04-15,800.00,Suporte,5,Sistema está rodando liso agora.

@@ -1,0 +1,9 @@
+ID_Chamado,ID_Compra,ID_Funcionario,Tempo_Resolucao_Minutos,Status_Chamado,Canal_Atendimento
+501,102,4,45,Resolvido,Chat
+502,104,12,15,Resolvido,E-mail
+503,106,9,120,Resolvido,Telefone
+504,108,12,30,Resolvido,Chat
+505,110,4,60,Resolvido,Telefone
+506,111,12,25,Resolvido,Chat
+507,113,9,10,Resolvido,Chat
+508,115,12,40,Resolvido,E-mail
