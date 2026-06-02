@@ -1,0 +1,16 @@
+ID_Funcionario,Nome_Funcionario,Setor,Cargo,Data_Admissao,Salario_Base,Custo_Alimentacao_Mensal,Horas_Extras
+1,Carlos Silva,Operações,Analista Jr,2022-01-15,3500.00,450.00,12
+2,Mariana Costa,Vendas,Gerente,2020-11-03,8500.00,600.00,0
+3,João Pedro,TI,Desenvolvedor,2023-03-22,5500.00,450.00,8
+4,Ana Clara,Atendimento,Assistente,2023-08-10,2500.00,450.00,25
+5,Roberto Alves,Operações,Supervisor,2019-05-18,6200.00,600.00,5
+6,Fernanda Lima,TI,Engenheira de Dados,2021-09-01,9200.00,600.00,10
+7,Lucas Gomes,Vendas,Vendedor,2024-01-10,3000.00,450.00,15
+8,Beatriz Santos,RH,Analista Pleno,2022-07-14,4800.00,450.00,0
+9,Marcos Dias,Atendimento,Assistente,2023-11-20,2500.00,450.00,18
+10,Juliana Rocha,Operações,Analista Pleno,2021-02-28,4500.00,450.00,4
+11,Rafael Souza,Diretoria,Diretor,2018-10-15,15000.00,800.00,0
+12,Camila Ribeiro,TI,Suporte,2024-02-05,3200.00,450.00,22
+13,Diego Martins,Vendas,Vendedor,2023-05-12,3000.00,450.00,10
+14,Aline Mendes,Atendimento,Supervisora,2020-04-08,5500.00,600.00,8
+15,Bruno Nunes,Operações,Assistente,2024-03-01,2200.00,450.00,30
